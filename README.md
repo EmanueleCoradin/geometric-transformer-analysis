@@ -21,7 +21,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/adadiorio/Project-LCP-mod-B
+    git clone https://github.com/EmanueleCoradin/geometric-transformer-analysis
     cd Project-LCP-mod-B
     ```
 
