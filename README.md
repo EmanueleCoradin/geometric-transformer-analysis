@@ -21,8 +21,8 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/transformer-geometrical-analysis.git
-    cd transformer-geometrical-analysis
+    git clone https://github.com/adadiorio/Project-LCP-mod-B
+    cd Project-LCP-mod-B
     ```
 
 2. Install the required packages:
@@ -33,9 +33,10 @@ To get started with this project, follow these steps:
 ## Usage
 
 To run the analysis, execute:
--  Decoderwise_statistical_analysis: 
--  IDwise_statistical_analysis:
--  DimensionalityEvolution:
+-  create_combined_directories_with_subdirs: to generate the all the subdirectories;
+-  PreRun: to generate the necessary data;
+-  Decoderwise_statistical_analysis: To analyze in details the behaviour of every single piece of the model;
+-  IDwise_statistical_analysis: To analyze globalli the behaviour of the model.
 
 ## Contributors
 
